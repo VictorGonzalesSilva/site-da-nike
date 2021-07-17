@@ -42,7 +42,6 @@ button {
 }
 .criar-google:hover{
     background-color: gray;
-    transition: 1s;
 }
 .criar-google {
     color: white;
@@ -59,7 +58,6 @@ button {
 }
 .conta:hover{
     background-color: gray;
-    transition: 1s;
 }
 input {
     width: 190px;
