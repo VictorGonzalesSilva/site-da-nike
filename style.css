@@ -40,6 +40,10 @@ button {
     height: 35px;
     margin: 25px;
 }
+.criar-google:hover{
+    background-color: gray;
+    transition: 1s;
+}
 .criar-google {
     color: white;
     background-color: red;
@@ -49,7 +53,14 @@ button {
     width: 20px;
     height: 20px;
 }
-
+.conta {
+    color: white;
+    background-color: black;
+}
+.conta:hover{
+    background-color: gray;
+    transition: 1s;
+}
 input {
     width: 190px;
     height: 30px;
